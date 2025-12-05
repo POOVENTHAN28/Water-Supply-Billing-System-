@@ -1,0 +1,35 @@
+{
+  "U1763559804732": {
+    "userId": "U1763559804732",
+    "username": "Prasadh",
+    "password": "12345",
+    "email": "prasadh@gmail.com",
+    "phone": "9876553212",
+    "address": "23add",
+    "role": "user",
+    "registrationDate": "2025-11-19T19:13:24.7598345",
+    "isOnline": false
+  },
+  "admin": {
+    "userId": "admin",
+    "username": "admin",
+    "password": "admin123",
+    "email": "admin@water.com",
+    "phone": "1234567890",
+    "address": "Admin Office",
+    "role": "admin",
+    "registrationDate": "2025-11-19T19:11:22.9841856",
+    "isOnline": true
+  },
+  "U1763560532253": {
+    "userId": "U1763560532253",
+    "username": "Prasadhmn",
+    "password": "12345",
+    "email": "prasadh@gmail.com",
+    "phone": "1234567890",
+    "address": "23aa",
+    "role": "user",
+    "registrationDate": "2025-11-19T19:25:32.2530079",
+    "isOnline": false
+  }
+}

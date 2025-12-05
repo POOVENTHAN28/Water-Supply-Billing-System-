@@ -1,0 +1,38 @@
+{
+  "C002": {
+    "connectionId": "C002",
+    "userId": "U1763559804732",
+    "connectionType": "domestic",
+    "meterNumber": "MTR002",
+    "currentReading": 133333.0,
+    "previousReading": 50.0,
+    "connectionDate": "2025-11-05T00:00:00",
+    "status": "active",
+    "lastUpdated": "2025-11-19T20:41:58.8321061",
+    "isVerified": false
+  },
+  "C001": {
+    "connectionId": "C001",
+    "userId": "user1",
+    "connectionType": "domestic",
+    "meterNumber": "MTR001",
+    "currentReading": 1200000.0,
+    "previousReading": 100.0,
+    "connectionDate": "2025-11-01T00:00:00",
+    "status": "active",
+    "lastUpdated": "2025-11-19T20:41:38.0300135",
+    "isVerified": false
+  },
+  "C003": {
+    "connectionId": "C003",
+    "userId": "U1763560532253",
+    "connectionType": "commercial",
+    "meterNumber": "MTR003",
+    "currentReading": 200.0,
+    "previousReading": 0.0,
+    "connectionDate": "2025-11-10T00:00:00",
+    "status": "active",
+    "lastUpdated": "2025-11-19T19:00:00",
+    "isVerified": false
+  }
+}
